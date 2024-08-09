@@ -49,7 +49,7 @@ The dataset represents a 2-year price movement of the GBP/USD on an hourly time 
 | Average profit trade      | \$99.83	            |
 | Average loss trade        | $-83.34               |
 
-It turned out that for the whole period, this was a total net profit of \$20,168.30. The average monthly profit equaled \$840.35. Balance maximum drawdowns were \$1,545.10 (11.61\%), while those in equity were \$4,472.90 (15.16\%). The EA executed 558 trades in total, whereby 364 of them were profitable, which is 65.23\% of the total. The average profit per trade was \$99.83, and the average loss per trade was \$-83.34.
+It turned out that for the whole period, this was a total net profit of \$20,168.30. The average monthly profit equaled \$840.35. Balance maximum drawdowns were \$1,545.10 (11.61\%), while those in equity were \$4,472.90 (15.16\%). The EA executed 558 trades in total, whereby 364 of them were profitable, which is 65.23\% of the total. The average profit per trade was \$99.83, and the average loss per trade was \$ -83.34.
 
 <div align="center">
 	<img src="./backtest/ReportTester-69770932-holding.png">
