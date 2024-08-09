@@ -1,9 +1,12 @@
 <div align="center">
 	<img src="./images/vortex-prime.png" width="500" height="500" >
 	<p></p>
-	<img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/naphatkps/https%3A%2F%2Fgithub.com%2Fnaphatkps%2FVortex-Prime">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Trading_Platform-MetaTrader_5-red?style=for-the-badge">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/naphatkps/Vortex-Prime?style=for-the-badge">
+	<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/naphatkps/Vortex-Prime?style=for-the-badge&color=blue">
 
 </div>
+
 
 # Vortex Prime
 
