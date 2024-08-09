@@ -1,10 +1,11 @@
 <div align="center">
 	<img src="./images/vortex-prime.png" width="500" height="500" >
-    <p></p>
+	<p></p>
+	<img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/naphatkps/https%3A%2F%2Fgithub.com%2Fnaphatkps%2FVortex-Prime">
 
 </div>
 
-# Vortex Prime v6.0
+# Vortex Prime
 
 Vortex Prime is a complex, high-end Forex trading robot for traders who want full functionality and complete customization. It combines **Grid and Martingale** strategies with **technical indicators** like MACD, RSI, Stochastic, and CCI in order to make well-grounded trading decisions. The bot has **no stop-loss** mechanism in its configuration; instead, the strategic logic controls trades, lots, and conditions for taking a profit. This will provide flexibility in tuning the bot's behavior for different market conditions and trading styles.
 
