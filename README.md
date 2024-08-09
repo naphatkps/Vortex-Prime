@@ -1,9 +1,11 @@
 <div align="center">
 	<img src="./images/vortex-prime.png" width="500" height="500" >
 	<p></p>
-	<img alt="Static Badge" src="https://img.shields.io/badge/Trading_Platform-MetaTrader_5-red?style=for-the-badge">
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/naphatkps/Vortex-Prime?style=for-the-badge">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Trading_Platform-MetaTrader_5-red?style=for-the-badge&color=red">
+	<img alt="GitHub Release" src="https://img.shields.io/github/v/release/naphatkps/Vortex-Prime?style=for-the-badge&color=green">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/naphatkps/Vortex-Prime?style=for-the-badge&color=orange">
 	<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/naphatkps/Vortex-Prime?style=for-the-badge&color=blue">
+
 
 </div>
 
