@@ -58,4 +58,8 @@ It turned out that for the whole period, this was a total net profit of \$20,168
 
 The above distribution indicates that most trades are of a short holding period, meaning the EA has been frequently opening and closing trades within a very short duration. This corresponds with the grid and martingale strategy, which mostly consists of multiple trades over shorter periods to capture market movements.
 
+## Contact
+Naphat - naphat.kps@gmail.com
+
+
 
